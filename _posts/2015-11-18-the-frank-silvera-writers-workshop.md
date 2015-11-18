@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-18T00:35:33.869Z'
-dateModified: '2015-11-18T00:35:20.497Z'
+datePublished: '2015-11-18T01:21:14.264Z'
+dateModified: '2015-11-18T01:00:23.700Z'
 title: "The Frank Silvera Writer's Workshop"
 authors: []
 publisher:
